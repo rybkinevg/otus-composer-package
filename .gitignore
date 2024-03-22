@@ -1,6 +1,9 @@
 .idea/
-/vendor/
 .DS_Store
 .AppleDouble
 .LSOverride
-.composer.lock
+.php-version
+
+# Composer
+vendor/
+composer.lock
