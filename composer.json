@@ -1,0 +1,12 @@
+{
+    "name": "rybkinevg/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "RybkinEvg\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    }
+}
