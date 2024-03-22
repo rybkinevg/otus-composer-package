@@ -15,7 +15,6 @@ composer require rybkinevg/otus-composer-package
 ## Usage
 
 ```php
-<?php
 use RybkinEvg\OtusComposerPackage\GrootPhraseGenerator;
 
 $phrase = (new GrootPhraseGenerator)->getRandomPhrase();
