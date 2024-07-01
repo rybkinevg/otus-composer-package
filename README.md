@@ -4,7 +4,7 @@ Generates a random Groot phrase
 
 ## Requirements
 
-- PHP ^8.1
+- PHP >=7.1
 
 ## Installation
 
